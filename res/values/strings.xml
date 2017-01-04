@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ControlLayOut</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="apple_daily">苹果动新闻</string>
+ 	<string name="tw_nextmedia_magazine">台湾壹周刊</string>
+ 	<string name="nextmediatw">台湾苹果日报</string>
+ 	<string name="oneplus">一周plus</string>
+ 	<string name="epaper">电子报</string>
+ 	<string name="overseajd">华闻头条</string>
+    <string name="serviceDescription">【控件测试支持服务】\n\n本服务为应用测试功能的支持服务，为保证测试的正常运行，请务必开启！\n\n</string>
+     
+
+</resources>
